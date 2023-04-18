@@ -27,7 +27,7 @@ At DigitalSpine, we believe in creating a supportive and inclusive environment w
 
 ## Getting Started
 
-If you're excited about joining our team and contributing to the growth and success of DigitalSpine.io, please check out our [careers page](https://career.digitalspine.io) for current job openings. You can also reach out to our HR department at [info@digitalspine.io](mailto:info@digitalspine.io) for any inquiries or to submit your resume.
+If you're excited about joining our team and contributing to the growth and success of DigitalSpine, please check out our [careers page](https://career.digitalspine.io) for current job openings. You can also reach out to our HR department at [info@digitalspine.io](mailto:info@digitalspine.io) for any inquiries or to submit your resume.
 
 We look forward to having you onboard and can't wait to see what we can achieve together!
 
