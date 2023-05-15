@@ -1,4 +1,4 @@
-![DigitalSpine](https://digitalspine.io/digital-spine-seo.jpg)
+![DigitalSpine](https://digitalspine-logos.s3.eu-central-1.amazonaws.com/github_header.png)
 
 ## Welcome to the DigitalSpine! 
 
